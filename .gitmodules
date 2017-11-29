@@ -1,3 +1,6 @@
 [submodule "TwitterViewer"]
 	path = TwitterViewer
 	url = git@github.com:Dr-Xperience/TwitterViewer.git
+[submodule "TwitterServer"]
+	path = TwitterServer
+	url = git@github.com:Dr-Xperience/TwitterServer.git
